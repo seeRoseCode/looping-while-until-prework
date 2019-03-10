@@ -5,5 +5,3 @@ def using_while
 	end
 	levitation_force += 1
 end
-
-
